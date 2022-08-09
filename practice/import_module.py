@@ -1,0 +1,2 @@
+def showdata():
+    print('Successfully')
