@@ -1,3 +1,8 @@
-# python study notes
+# study notes
 
-This is  my notes for learning the basics of python  
+This is  my learning notes.
+## python notes
+This part includes the following parts:
+- python basics
+- numpy
+- matplotlib
