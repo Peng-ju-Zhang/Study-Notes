@@ -1,8 +1,8 @@
-# study notes
+# Study Notes
 
-This is  my learning notes.
+This repository is used to put some of my study notes, which are updated from time to time
 ## python notes
-This part includes the following parts:
+This notes includes the following parts:
 - python basics
 - numpy
 - matplotlib
